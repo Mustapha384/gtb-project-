@@ -1,0 +1,374 @@
+body{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    background-color:  white;
+}
+.my mark{
+    color: rgb(203, 72, 12);
+    font-size: 20px;
+    font-weight: 200px;
+    background-color: white;
+    text-decoration: underline;
+}
+.my{
+    color: black;
+    font-size: 15px;
+    font-weight: 50px;
+    border: 10px;
+    margin: top 10px;
+    background-color: rgba(221, 79, 5, 0.05);
+    border-radius: 5px;
+    border-radius: 5px;
+    padding-top: 25px;
+    padding-right: 0px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+.me{
+   display: flex; 
+   list-style-type: none;
+   gap: 50px;
+   font-weight: bolder;
+   border: 0; 
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: rgb(254, 94, 36);
+   color: rgb(254, 94, 36);
+   border-radius: 5px;
+}
+.me a{
+    text-decoration: none;
+}
+.me li{
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: white;
+}
+.me a{
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: white;
+}  
+.me li:hover{
+    font-weight: bolder;
+    font-size: 30px;
+    border-bottom: 2px solid aqua;
+}
+ li.kid img{
+    border-radius: 6000px;
+    width: 60px;
+    border-left: 50px;
+}
+li.in img{
+    border-radius: 100px;
+    width: 50px;
+    border-left:50px;
+    border-top: 10px;
+}
+li.kind img{
+    border-radius: 10px;
+    background-color: white;
+}
+.phone{
+    display: inline-flex;
+    justify-content: center;
+    list-style-type: none;
+    padding:  0px;
+    border: 0px;
+    gap: 80px;
+    border-radius: 40px;
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.phone:hover{
+    text-decoration: underline;
+}
+.phone img{
+    float: right;
+    border: 50px;
+    width: 100px;
+    border: 0px;
+}
+.phone li{
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+}
+.bag img{
+    width: 1250px;
+    border-radius: 10px;
+}
+.yo.lap{
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+}
+.yo .tp{
+    text-align: center;
+    font-size: 20px;
+    background-color: white ;
+}
+.yo{
+    background-color:  white;
+    text-align: center;
+    padding:20px ;
+}
+.tap{
+    display: inline-flex;
+    padding: 2px;
+    border: 2px;
+    background-color:  white;
+    border-radius: 10px;
+}
+.tap a{
+    text-decoration: none;
+}
+.tap img{
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.tp a{
+    text-decoration: none;
+}
+.tap .pen{
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.tap .top{
+    font-size: 13px;
+    font-family:  sans-serif;
+    font-weight: lighter;
+    color: black;
+}
+.tap p{
+    font-size: 20px;
+    font-weight: bolder;
+    color:  rgb(239, 118, 19);
+}
+.tp{
+    display: flex;
+    padding: 5px;
+    border: 5px;
+    border-radius: 10px;
+    background-color:  white;
+}
+.tp img{
+    width: 200px;
+    border-radius: 5px;
+}
+.tp .go{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
+.tp .and{
+    font-size: 18px;
+    border: 5px;
+    padding: 5px;
+    color: black;
+    font-weight: lighter;
+}
+.tp p{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(239, 118, 19);
+}
+.book{
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    margin-left: 40px;
+}
+.select{
+   display: inline-flex;
+   padding: 5px; 
+   border: 5px; 
+   text-align: center;
+}
+.select img{
+    width: 300px;
+    border: 5px;
+    padding: 5%;
+    border-radius: 5px;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.select .in img{
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.select .to{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.select button{
+    border: 600px;
+    padding: 15px;
+    background-color:rgb(239, 118, 19) ;
+    font-weight: bolder;
+    color: white;
+}
+.select button:hover{
+    background-color: rgb(181, 84, 5);
+    font-size: 15px;
+}
+.boy{
+    border: 0;
+    padding: 0;
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: center;
+}
+.boy :hover{
+    color: rgb(254, 94, 36);
+}
+.boy img{
+    border-radius: 60px;
+    width: 60px;
+}
+.boy img:hover{
+    color: rgb(239, 118, 19);
+}
+.boy figcaption{
+    font-size: x-small;
+    font-weight: bolder;
+}
+hr{
+    color: azure;
+    border-color: azure;
+}
+.mouse{
+  display: inline-flex;
+  margin: 10px;
+}
+ul li{
+    margin: 18px;
+}
+.body{
+    flex-direction: column;
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: lighter;
+    margin: 5px;
+    border: 5px;
+}
+ .clock{
+    font-weight: 700;
+    font-size: 18px;
+}
+.cat{
+    flex-direction: column;
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: lighter; 
+    margin: 5px;
+    border: 5px;
+}
+ .eye{
+    font-weight: 700;
+    font-size: 18px; 
+}
+.rat{
+    flex-direction: column;
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: lighter;
+    margin: 5px; 
+    border: 5px;
+}
+.leg{
+    font-weight: 700; 
+    font-size: 18px;
+} 
+.shoe{
+    font-weight: 700;
+    font-size: 18px;
+}
+.screen{
+    flex-direction: column;
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: lighter;
+    margin: 5px; 
+    border: 5px;
+}
+ .button{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.down{
+    flex-direction: column;
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: lighter;
+    margin: 5px; 
+    border: 5px;
+}
+ .button{
+    font-weight: 700;
+    font-size: 18px;
+}
+.man{
+    display: inline-flex;
+    list-style-type: none;
+    justify-content: none;
+    gap: 26px;
+    font-weight: bolder;
+}
+.man img{
+    width: 200px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 0;
+    background-color:  hwb(0 100% 0%);
+}
+div .car{
+    display: inline-flex;
+    justify-content: center;
+    border: 0;
+    margin: 0;
+    list-style-type: none;
+    flex-direction: row;
+    font-size: small;
+    gap: 0px;
+    padding: 0px;
+    background-color: #434a51;
+}
+.car img{
+    width: 35px;
+    border-radius: 30px;
+    gap: 8px;
+    transform: translate(-10px);
+}
+.car img:hover{
+    cursor: pointer;
+}
+.car li{
+    color: white;
+}
+.car a{
+    color: white;
+    text-decoration: none;
+}
+.car a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.biodun{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #434a51;
+}
